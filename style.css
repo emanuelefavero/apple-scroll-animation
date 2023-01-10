@@ -74,9 +74,9 @@ canvas {
   color: #fff;
 
   opacity: 0;
-  transition: opacity 0.5s ease;
 }
 
 .bottom-page-element.show {
+  transition: opacity 0.5s ease;
   opacity: 1;
 }
