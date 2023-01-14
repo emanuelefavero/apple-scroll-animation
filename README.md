@@ -8,7 +8,7 @@ This is a vanilla Javascript way of doing the "sync video/image frame to scroll"
 
 [Check it out here](https://emanuelefavero.github.io/apple-scroll-animation/)
 
-#### Gif example
+#### GIF example
 
 <img src="apple-scroll-animation.gif" alt="screenshot" width="300">
 
